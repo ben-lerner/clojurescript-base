@@ -1,0 +1,7 @@
+Building ...
+... done. Elapsed 0.164857488 seconds
+Watching paths: /Users/bl/clojurescript-base/helloworld/src
+Change detected, recompiling ...
+Compiling src/helloworld/core.cljs
+Copying file:/Users/bl/clojurescript-base/helloworld/src/helloworld/core.cljs to out/helloworld/core.cljs
+... done. Elapsed 0.177068071 seconds
