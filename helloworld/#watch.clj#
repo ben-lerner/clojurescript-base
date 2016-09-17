@@ -1,0 +1,8 @@
+(require 'cljs.build.api)
+
+(cljs.build.api/watch
+ "src"
+ {:main 'helloworld.core
+  :output-to "out/main.js"})
+
+;; java -cp cljs.jar:src clojure.main watch.clj
